@@ -21,3 +21,6 @@
 
 ## Code experience
 I tried to make a website with CMS WordPress, after that I tried to make a website using HTML, CSS and PHP, it was a simple application which used weather website API, the next step I tried web scraping with Python, after that I tried to make a game application with JavaScript. It wasn't something serious, but right now I'm determined to become the WEB developer.
+
+## Education and English
+I graduated from [PSUTI](https://www.psuti.ru/) with a degree in Infocommunication Technologies and Communication Systems. I've been studying English since 2018, I graduated from an English course with a pre-intermediate level, I can speak, read and write English for my level.
