@@ -16,4 +16,5 @@
   - Ecology
   - Health
   
-  
+## My work
+  I've been working in telecommunications as a technician for 8 years, it's connected with 'IT', but I haven't written any code at work yet. I understand how the internet works, network model TCP/IP, and physical media of transmission signal.   
