@@ -18,3 +18,6 @@
   
 ## My work
   I've been working in telecommunications as a technician for 8 years, it's connected with 'IT', but I haven't written any code at work yet. I understand how the internet works, network model TCP/IP, and physical media of transmission signal.   
+
+## Code experience
+I tried to make a website with CMS WordPress, after that I tried to make a website using HTML, CSS and PHP, it was a simple application which used weather website API, the next step I tried web scraping with Python, after that I tried to make a game application with JavaScript. It wasn't something serious, but right now I'm determined to become the WEB developer.
